@@ -1,8 +1,6 @@
 const { makeAugmentedSchema } = require("neo4j-graphql-js");
 
-const gql = require("graphql-tag");
-
-const typeDefs = `
+const typeDefs = /* GraphQL */ `
   type Person {
     name: String!
   }

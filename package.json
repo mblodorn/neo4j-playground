@@ -9,7 +9,6 @@
     "apollo-server": "^2.7.1",
     "babel-plugin-transform-runtime": "^6.23.0",
     "graphql": "^14.4.2",
-    "graphql-tag": "^2.10.1",
     "neo4j-driver": "^1.7.5",
     "neo4j-graphql-js": "^2.6.3"
   }
