@@ -6,7 +6,7 @@
   "author": "Matheus Blödorn <blodorn.matheus@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "apollo-server": "^2.7.1",
+    "apollo-server": "^2.25.4",
     "babel-plugin-transform-runtime": "^6.23.0",
     "graphql": "^14.4.2",
     "neo4j-driver": "^1.7.5",
